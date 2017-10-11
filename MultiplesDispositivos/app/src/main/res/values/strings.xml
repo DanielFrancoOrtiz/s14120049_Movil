@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiplesDispositivos</string>
+    <string name="txtH" translatable="false">Hello World!</string>
+</resources>
