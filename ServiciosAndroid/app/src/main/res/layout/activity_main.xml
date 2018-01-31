@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.franco.serviciosandroid.MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INTERACCION HILO PRINCIPAL"
+        android:id="@+id/btnIP"
+        android:onClick="btnIP_Click"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INICIO SERVICIO"
+        android:id="@+id/btnS"
+        android:onClick="btnS_Click"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INICIO INTENT SERVICE"
+        android:id="@+id/btnIS"
+        android:onClick="btnIS_Click"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INICIO INTENT SERVICE"
+        android:id="@+id/btnSE"
+        android:onClick="btnSE_Click"
+        />
+</android.support.v7.widget.LinearLayoutCompat>
