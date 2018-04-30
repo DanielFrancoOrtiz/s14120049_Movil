@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="blocked_numbers">Numeros bloqueados</string>
+    <string name="notification_blocked_number_added">se agrego a la lista</string>
+    <string name="notification_blocked_number_removed"> fue saliminado de la lista</string>
+    <string name="statusbar_call_blocked_title">LLamada Bloqueada</string>
+    <string name="statusbar_call_blocked">Se bloqueo una llamada de:</string>
+    <string name="main_calls_blocked">Llamadas bloqueadas</string>
+    <string name="main_blocklist_count"> Numeros en la lista de bloqueo</string>
+</resources>
